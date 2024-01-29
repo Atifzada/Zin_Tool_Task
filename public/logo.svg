@@ -1,0 +1,27 @@
+<svg width="85" height="33" viewBox="0 0 85 33" fill="none" xmlns="http://www.w3.org/2000/svg" class="wsc-svg-logo-hipdf-header">
+<g filter="url(#hipdf-header-filter0_i_6550_11246)">
+<rect x="0.5" y="0.5" width="32" height="32" rx="7.3" fill="url(#hipdf-header-paint0_linear_6550_11246)"/>
+<path d="M13.3297 9.2489L9.80688 12.7496L13.3297 16.2503L16.8526 12.7496L13.3297 9.2489Z" fill="white"/>
+<path d="M13.3296 17.6503L10.5113 20.4508L13.3296 23.2514L16.1479 20.4508L13.3296 17.6503Z" fill="white"/>
+<path d="M6.98734 16.9497L9.80563 14.1491L12.6239 16.9497L9.80564 19.7502L6.98734 16.9497Z" fill="white"/>
+<path d="M6.28415 17.6506L4.875 19.0509L6.28415 20.4511L7.6933 19.0509L6.28415 17.6506Z" fill="white"/>
+<path d="M14.0336 16.9495L21.0794 9.94809L28.1251 16.9495L21.0794 23.9509L14.0336 16.9495Z" fill="white"/>
+</g>
+<path d="M49.172 11.3H47.092V15.892H42.02V11.3H39.94V22.5H42.02V17.828H47.092V22.5H49.172V11.3ZM51.1374 13.172H53.2494V10.916H51.1374V13.172ZM51.2014 22.5H53.1854V14.26H51.2014V22.5ZM59.9265 11.3H55.2225V22.5H57.2865V18.372H59.7185C62.2785 18.372 63.6065 16.644 63.6065 14.724C63.6065 12.884 62.3745 11.3 59.9265 11.3ZM59.7825 16.436H57.2865V13.252H59.8625C60.9825 13.252 61.5105 13.924 61.5105 14.836C61.5105 15.748 60.9665 16.436 59.7825 16.436ZM68.7811 11.3H64.9731V22.5H68.5251C72.5411 22.5 74.3811 19.508 74.3811 16.676C74.3811 13.892 72.6051 11.3 68.7811 11.3ZM68.5411 20.548H67.0531V13.252H68.8611C71.2771 13.252 72.2851 14.9 72.2851 16.676C72.2851 18.58 71.1331 20.548 68.5411 20.548ZM78.1475 17.812H83.1555V15.86H78.1475V13.252H83.5875V11.3H76.0675V22.5H78.1475V17.812Z" fill="black"/>
+<defs>
+<filter id="hipdf-header-filter0_i_6550_11246" x="0.5" y="0.5" width="32" height="32" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="0.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="darken" in2="shape" result="effect1_innerShadow_6550_11246"/>
+</filter>
+<linearGradient id="hipdf-header-paint0_linear_6550_11246" x1="16.5" y1="0.5" x2="16.5" y2="32.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#566CFD"/>
+<stop offset="1" stop-color="#4D64FD"/>
+</linearGradient>
+</defs>
+</svg>
