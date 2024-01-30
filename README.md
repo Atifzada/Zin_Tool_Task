@@ -38,6 +38,10 @@ I successfully implemented the UI concept provided in the task link. The task re
 
 5. Open your browser and visit http://localhost:3000 to view the application:
 
+## Task live link
+
+[click here](https://zin-tool-task.vercel.app/) 
+
 ## Deadline
 The task was completed within the specified deadline, showcasing my ability to deliver quality work in a timely manner.
 
